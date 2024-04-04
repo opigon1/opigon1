@@ -2,11 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
-## <div align="center">Привет! Меня зовут Степан Рындин, я Frontend - developer 👨‍💻</div>  
-
-
-  
+## <div align="center">Привет! Меня зовут Степан Рындин, я Frontend - developer 👨‍💻</div>  <br>
 
 Мне 21 год и я живу в Луганске, РФ. Этим летом(2024г) заканчиваю ЛГУ им. В.И. Даля факультет Компьютерных систем и информационных технологий. 👨‍🎓
 
